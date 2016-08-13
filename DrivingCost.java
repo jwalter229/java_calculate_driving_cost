@@ -1,4 +1,4 @@
- /*wirte a program that prompts the user
+ /*write a program that prompts the user
    to enter distance to drive
    fuel efficiency of the car MPG
    price per gallon and displays 
